@@ -73,29 +73,24 @@ This project aims to analyze a dataset containing salary information for data sc
 - Handle missing or null values.
 - Convert categorical data into a suitable format for modeling (e.g., one-hot encoding).
 
-### Feature Engineering
-- Potential creation of new features that could improve model performance.
-
 ## Exploratory Data Analysis (EDA)
 
 - Statistical summary of the data.
 - Distribution of salaries.
-- Correlations between features and the target variable (salary).
 
 ## Model Building
 
-- Selection of suitable models for salary prediction (e.g., linear regression, random forest, gradient boosting).
+- Selection of suitable models for salary prediction (e.g., xgboost, random forest).
 - Splitting the dataset into training and testing sets.
 - Model training and parameter tuning.
 
 ## Model Evaluation
 
-- Evaluation metrics (e.g., RMSE, R² score).
+- Evaluation metrics (e.g., RMSE).
 - Comparison of model performances.
 
 ## Conclusion
 
 - Summary of findings.
 - Insights into factors influencing data science salaries.
-- Recommendations for further research or improvement in model accuracy.
 
